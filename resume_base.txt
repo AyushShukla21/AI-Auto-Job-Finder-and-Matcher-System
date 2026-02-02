@@ -1,0 +1,10 @@
+Ayush
+Graduate Engineer
+
+Skills:
+Python, SQL, Java, Linux, Networking, Machine Learning, Excel
+
+Projects:
+• Data Analysis Project using Python & SQL
+• Network Security Fundamentals
+• Java Application Development
